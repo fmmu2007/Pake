@@ -12,10 +12,10 @@ on:
           - 'macos-latest'
           - 'ubuntu-20.04'
       url:
-        description: '[URL]'
+        description: '[https://weekly.tw93.fun]'
         required: true
       name:
-        description: '[Name]'
+        description: '[weekly]'
         required: true
       icon:
         description: '[Icon, Optional]'
